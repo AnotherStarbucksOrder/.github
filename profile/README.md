@@ -99,7 +99,8 @@
 ## 🛠️ 기술 스텍
 <div>
 <img src="https://img.shields.io/badge/VSCODE-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ-black?style=flat-square&logo=intellij-idea&logoColor=white"/>   
+<img src="https://img.shields.io/badge/IntelliJ-black?style=flat-square&logo=intellij-idea&logoColor=white"/>
+
     
 <img src="https://camo.githubusercontent.com/63ce25bbb454213b0d70cf07a16157f900c64751068755d0ed379b5a9b164eb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3433424246463f7374796c653d666c61742d737175617265266c6f676f3d5265616374266c6f676f436f6c6f723d7768697465"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
