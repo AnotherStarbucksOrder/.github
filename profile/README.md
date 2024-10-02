@@ -18,7 +18,7 @@
 
 ## 🐣 팀원 소개
 
-<div style="align: center">
+<div align="center">
 <img src="https://github.com/Novel-Ideas/gumeonggage-front/assets/83110386/6339b2ff-101b-4316-98b1-fe5e53bda768" />
 <img src="https://github.com/Novel-Ideas/gumeonggage-front/assets/83110386/344a9254-8f2f-439e-af78-addcb748c4e9" />
 <table border="1">
@@ -68,7 +68,7 @@
 </div>
 
 <p style="text-align:right"> 
-<a href="우리레파지토리주소">TOP 🔼</a>
+<a href="[우리레파지토리주소](https://github.com/AnotherStarbucksOrder)">TOP 🔼</a>
 </p>
 
 ## ✏️ 역할 분담
@@ -105,28 +105,26 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
-
+    <br>
 <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>
-
+    <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-
+    <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-
+    <br>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 </div>
 
-## 💻 개발 도구
-
 ## 📆 프로젝트 일정
 
-## 오류 수정
+## 🔧 오류 수정
 
-## 코드 컨벤션
+## 💻 코드 컨벤션
 
-## API 명세서 & ERD 설계도
+## 📊 API 명세서 & ERD 설계도
 
-## 메뉴 구조도
+## 📋 메뉴 구조도
 
 ## ✨ 화면 구현
