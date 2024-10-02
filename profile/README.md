@@ -45,30 +45,30 @@
     <tbody>
             <td style="text-align: center;">
             <a href="https://github.com/dongyoon7212">
-                <img src="https://github.com/Novel-Ideas/gumeonggage-front/assets/83110386/50f5a224-bbbc-4486-9ce0-b873d962898d" width="150" height="150" />
+                <img src="https://github.com/user-attachments/assets/d590d8bb-9644-409b-a8d1-6b3a04989b42" width="100" height="100" />
             </a>
         </td>
             <td style="text-align: center;">
             <a href="https://github.com/ez0603">
-                <img src="https://github.com/Novel-Ideas/gumeonggage-front/assets/83110386/37d1fc3b-f435-44d0-adb4-0404c1b71837" width="150" height="150" />
+                <img src="" width="150" height="150" />
             </a>
         </td>
             <td style="text-align: center;">
             <a href="https://github.com/gyeolhwi">
-                <img src="https://github.com/Novel-Ideas/gumeonggage-front/assets/83110386/b015e01d-1078-428e-a713-a92b23e4ff6a" width="150" height="150" />
+                <img src="" width="150" height="150" />
             </a>
         </td>
             <td style="text-align: center;">
             <a href="https://github.com/choiddanbi">
-                <img src="https://github.com/Novel-Ideas/gumeonggage-front/assets/83110386/ffb0f7a2-6df1-4935-8b3f-036cf89e344b" width="150" height="150" />
+                <img src="" width="150" height="150" />
             </a>
         </td>
     </tbody>
 </table>
 </div>
 
-<p style="text-align:right"> 
-<a href="[우리레파지토리주소](https://github.com/AnotherStarbucksOrder)">TOP 🔼</a>
+<p align="right">
+<a href="https://github.com/AnotherStarbucksOrder">TOP 🔼</a>
 </p>
 
 ## ✏️ 역할 분담
