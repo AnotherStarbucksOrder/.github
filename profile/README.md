@@ -14,7 +14,6 @@
 
 <br/>
 <br/>
-<br/>
 
 ## 🐣 팀원 소개
 
@@ -74,7 +73,6 @@
 
 <br/>
 <br/>
-<br/>
 
 ## ✏️ 역할 분담
 
@@ -114,44 +112,28 @@
 
 <br/>
 <br/>
-<br/>
 
 ## 🛠️ 기술 스택
 <div>
-    
-#### #IDE
-
 <img src="https://img.shields.io/badge/VSCODE-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ-black?style=flat-square&logo=intellij-idea&logoColor=white"/>
 <br>
-
-#### #SERVER
-
 <img src="https://camo.githubusercontent.com/63ce25bbb454213b0d70cf07a16157f900c64751068755d0ed379b5a9b164eb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3433424246463f7374796c653d666c61742d737175617265266c6f676f3d5265616374266c6f676f436f6c6f723d7768697465"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
 <br>
-
-#### #ETC
 <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>
 <br>
-
-#### #DB
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <br>
-
-#### #VERSION
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <br>
-
-#### #CLOUD SERVICE
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 </div>
 
-<br/>
 <br/>
 <br/>
 
@@ -160,11 +142,9 @@
           
 <br/>
 <br/>
-<br/>
 
 ## 🔧 오류 수정
 
-<br/>
 <br/>
 <br/>
 
@@ -229,11 +209,9 @@
 
 <br/>
 <br/>
-<br/>
 
 ## 📋 메뉴 구조도
 
-<br/>
 <br/>
 <br/>
 
