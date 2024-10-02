@@ -15,6 +15,10 @@
         - 주문관리
         - 회원관리
 
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## 🐣 팀원 소개
 
@@ -67,9 +71,10 @@
 </table>
 </div>
 
-<p align="right">
-<a href="https://github.com/AnotherStarbucksOrder">TOP 🔼</a>
-</p>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## ✏️ 역할 분담
 
@@ -96,6 +101,11 @@
 - ERD 설계
 - 사용자 백엔드
 
+<br/>
+<br/>
+<br/>
+<br/>
+
 ## 🛠️ 기술 스텍
 <div>
 <img src="https://img.shields.io/badge/VSCODE-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
@@ -117,15 +127,40 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 </div>
 
+<br/>
+<br/>
+<br/>
+<br/>
+
 ## 📆 프로젝트 일정
 
+<br/>
+<br/>
+<br/>
+<br/>
+
 ## 🔧 오류 수정
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## 💻 코드 컨벤션
 ```
 ```
 ## 📊 API 명세서 & ERD 설계도
 
+<br/>
+<br/>
+<br/>
+<br/>
+
 ## 📋 메뉴 구조도
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## ✨ 화면 구현
