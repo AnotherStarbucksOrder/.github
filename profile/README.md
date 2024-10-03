@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=036635&height=400&section=header&text=ANOTHER%20STARBUCKS&fontSize=60&fontColor=e8f3f5)
+
 ## ☕ 이세계 스타벅스
 - '이세계 스타벅스' 누구나 쉽게 사용할 수 있는 **직관성(Intuitiveness)** 을 갖춘 키오스크입니다.
 
@@ -23,7 +25,7 @@
 <br/>
 <br/>
 
-<table border="1">
+<table border="0.2">
     <thead>
         <tr>
             <th style="text-align: center;">
@@ -48,22 +50,22 @@
             <tr>
             <td style="text-align: center;">
             <a href="https://github.com/dongyoon7212">
-                <img src="https://github.com/user-attachments/assets/d590d8bb-9644-409b-a8d1-6b3a04989b42" width="100" height="100" />
+                <img src="https://github.com/user-attachments/assets/d590d8bb-9644-409b-a8d1-6b3a04989b42" width="120" height="120" />
             </a>
         </td>
             <td style="text-align: center;">
             <a href="https://github.com/ez0603">
-                <img src="https://github.com/user-attachments/assets/df5a0afd-1d9e-4e3a-8e22-9cb36c4be35e" width="100" height="100" />
+                <img src="https://github.com/user-attachments/assets/df5a0afd-1d9e-4e3a-8e22-9cb36c4be35e" width="120" height="120" />
             </a>
         </td>
             <td style="text-align: center;">
             <a href="https://github.com/gyeolhwi">
-                <img src="https://github.com/user-attachments/assets/d0f8dac8-7634-4030-9ea1-f02d811ea6d5" width="100" height="100" />
+                <img src="https://github.com/user-attachments/assets/8af127d9-c9eb-46ca-8d6d-34a52135b700" width="120" height="120" />
             </a>
         </td>
             <td style="text-align: center;">
             <a href="https://github.com/choiddanbi">
-                <img src="" width="100" height="100" />
+                <img src="https://github.com/user-attachments/assets/e3d39e43-b7e1-4c82-9c8a-cf94486e1d71" width="120" height="120" />
             </a>
         </td>
         </tr>
@@ -148,7 +150,40 @@
 <br/>
 <br/>
 
-## 💻 코드 컨벤션
+## 💻 컨벤션
+#### 👀 커밋컨벤션
+```
+
+1. 커밋 유형 지정
+    - 커밋 유형은 영어 대문자로 작성하기
+    - 커밋 유형
+    - Feat : 새로운 기능 추가
+    - Fix : 버그 수정
+    - Docs : 문서 수정
+    - Style : 코드 formatting, 세미콜론 누락, 코드 자체의 변경이 없는 경우
+    - Refactor : 코드 리팩토링
+    - Test : 테스트 코드, 리팩토링 테스트 코드 추가
+    - Chore : 패키지 매니저 수정, 그 외 기타 수정 ex) .gitignore
+    - Design : CSS 등 사용자 UI 디자인 변경
+    - Comment : 필요한 주석 추가 및 변경
+    - Rename : 파일 또는 폴더 명을 수정하거나 옮기는 작업만인 경우
+    - Remove : 파일을 삭제하는 작업만 수행한 경우
+    - !BREAKING CHANGE : 커다란 API 변경의 경우
+    - !HOTFIX : 급하게 치명적인 버그를 고쳐야 하는 경우
+
+🧾 2. 제목과 본문을 빈행으로 분리 - 커밋 유형 이후 제목과 본문은 한글로 작성하여 내용이 잘 전달될 수 있도록 할 것 - 본문에는 변경한 내용과 이유 설명 (어떻게보다는 무엇 & 왜를 설명)
+
+#️⃣ 3. 제목 첫 글자는 대문자로, 끝에는 . 금지
+
+↩️ 4. 제목은 영문 기준 50자 이내로 할 것
+
+⏺️ 5. 자신의 코드가 직관적으로 바로 파악할 수 있다고 생각하지 말자
+
+👆 6. 여러가지 항목이 있다면 글머리 기호를 통해 가독성 높이기
+
+```
+
+#### 👀 코드컨벤션
 ```
 🛼 문자열을 처리할 때는 쌍따옴표를 사용하도록 합니다.
 
@@ -205,7 +240,12 @@
 💫 시작 괄호 바로 다음과 끝 괄호 바로 이전에 공백이 있으면 안 된다.
 ```
 
-## 📊 API 명세서 & ERD 설계도
+## 📊 API 명세서
+
+<br/>
+<br/>
+
+## 🔗 ERD 설계도
 
 <br/>
 <br/>
