@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=036635&height=400&section=header&text=ANOTHER%20STARBUCKS&fontSize=60&fontColor=e8f3f5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=036635&height=500&section=header&text=ANOTHER%20STARBUCKS&fontSize=60&fontColor=e8f3f5)
 
 ## ☕ 이세계 스타벅스
 - '이세계 스타벅스' 누구나 쉽게 사용할 수 있는 **직관성(Intuitiveness)** 을 갖춘 키오스크입니다.
@@ -142,32 +142,31 @@
 ## 📆 프로젝트 일정
 #### 2024. 10. 01 ~ 2024. 11. 13
 
-## 📖 Gantt :fire:
-
 ```mermaid
 gantt
-    title A Gantt Diagram
+    title Another StarBucks
     dateFormat  YYYY-MM-DD
-    section AI
-    AI 기술테스트  : a1, 2020-10-14, 10d
-    가상 얼굴 학습 및 환경세팅  : 2020-10-14, 10d
-    얼굴 인식 개선 및 적용 : after a1, 10d
-    가상 얼굴 이미지 생성 및 분류 : after a1, 4d
+    section ALL
+    주제선정  : a1, 2024-10-01, 1d
+    중간발표  : after a1, 1d
+    API 통합 : a2, 2024-10-15, 8d
+    알파테스트 : a3, after a2, 1d
+    피드백 및 보안 : a4, after a3, 1d
+    최종 코드 리뷰 : a5, after a4, 2d
+    수정 및 배포 : a6, after a5, 3d
+    최종 발표 : after a6, 1d
+    클린코드 : milestone, 2024-11-06
 
     section Front-end
-    와이어프레임     :a1,2020-10-14  , 10d
-    react 학습 및 적용 : after a1,  10d
-    사진 업로드 및 설정 기능 :after a1 , 10d
+    Figma 디자인  : 2024-10-03 , 2d
+    프론트 디자인 : 2024-10-10, 8d
+    
 
     section Back-end
-    django 학습 및 적용 : a1,2020-10-14 , 10d
-    회원기능      :a2,after a1 , 10d
-    친구기능      :after a1  ,10d
-    결과 이미지저장,공유  : a3,after a2, 2d
-    스티커 기능  : a4,after a3, 2d
-
+    ERD설계 및 API 작성 : 2024-10-05, 4d
+    백엔드 개발 : 2024-10-10, 8d
 ```
-          
+
 <br/>
 <br/>
 
