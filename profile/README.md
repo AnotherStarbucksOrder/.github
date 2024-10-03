@@ -51,12 +51,12 @@
     <tbody>
             <tr>
             <td style="text-align: center;">
-            <a href="https://github.com/dongyoon7212">
+            <a href="https://github.com/qorditl1248">
                 <img src="https://github.com/user-attachments/assets/d590d8bb-9644-409b-a8d1-6b3a04989b42" width="120" height="120" />
             </a>
         </td>
             <td style="text-align: center;">
-            <a href="https://github.com/ez0603">
+            <a href="https://github.com/choiiw">
                 <img src="https://github.com/user-attachments/assets/df5a0afd-1d9e-4e3a-8e22-9cb36c4be35e" width="120" height="120" />
             </a>
         </td>
