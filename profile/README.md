@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=036635&height=500&section=header&text=ANOTHER%20STARBUCKS&fontSize=60&fontColor=e8f3f5)
 
+
 ## ☕ 이세계 스타벅스
 - '이세계 스타벅스' 누구나 쉽게 사용할 수 있는 **직관성(Intuitiveness)** 을 갖춘 키오스크입니다.
 
@@ -20,8 +21,9 @@
 ## 🐣 팀원 소개
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/82243963-5dff-4d1d-9cb0-1591d9221fe2" />
+<img src="https://github.com/user-attachments/assets/82243963-5dff-4d1d-9cb0-1591d9221fe2" height="55"/>
 
+<br/>
 <br/>
 <br/>
 
@@ -149,22 +151,23 @@ gantt
     section ALL
     주제선정  : a1, 2024-10-01, 1d
     중간발표  : after a1, 1d
-    API 통합 : a2, 2024-10-15, 8d
-    알파테스트 : a3, after a2, 1d
-    피드백 및 보안 : a4, after a3, 1d
-    최종 코드 리뷰 : a5, after a4, 2d
-    수정 및 배포 : a6, after a5, 3d
+    API 통합 : a2, 2024-10-15, 9d
+    알파테스트 : a3, after a2, 2d
+    피드백 및 보완 : a4, after a3, 3d
+    최종 코드 리뷰 : a5, after a4, 3d
+    배포 : a6, after a5, 3d
     최종 발표 : after a6, 1d
     클린코드 : milestone, 2024-11-06
 
     section Front-end
-    Figma 디자인  : 2024-10-03 , 2d
+    Figma  : 2024-10-03 , 2d
     프론트 디자인 : 2024-10-10, 8d
     
 
     section Back-end
-    ERD설계 및 API 작성 : 2024-10-05, 4d
+    ERD설계 및 API 작성 : 2024-10-05, 5d
     백엔드 개발 : 2024-10-10, 8d
+
 ```
 
 <br/>
