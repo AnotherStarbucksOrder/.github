@@ -264,6 +264,7 @@ gantt
 <br/>
 
 ## 🔗 ERD 설계도
+<img src="https://github.com/user-attachments/assets/e24ff968-6760-4bb6-a6e3-e22f1aef2b82" width="1100" height="500"/>
 
 <br/>
 <br/>
