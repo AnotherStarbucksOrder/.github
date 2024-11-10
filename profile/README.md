@@ -12,11 +12,11 @@
 - MANAGER
   - 로그인 및 로그아웃
   - 메뉴관리
+  - 카테고리 관리
+  - 옵션관리
   - 매출관리
   - 주문관리
   - 회원관리
-  - 카테고리관리
-  - 옵션관리
 
 <br/>
 <br/>
@@ -145,33 +145,8 @@
 <br/>
 
 ## 📆 프로젝트 일정
-#### 2024. 10. 01 ~ 2024. 11. 13
-
-```mermaid
-gantt
-    title Another StarBucks
-    dateFormat  YYYY-MM-DD
-    section ALL
-    주제선정  : a1, 2024-10-01, 1d
-    중간발표  : after a1, 1d
-    API 통합 : a2, 2024-10-15, 9d
-    알파테스트 : a3, after a2, 2d
-    피드백 및 보완 : a4, after a3, 3d
-    최종 코드 리뷰 : a5, after a4, 3d
-    배포 : a6, after a5, 3d
-    최종 발표 : after a6, 1d
-    클린코드 : milestone, 2024-11-06
-
-    section Front-end
-    Figma  : 2024-10-03 , 2d
-    프론트 디자인 : 2024-10-10, 8d
-    
-
-    section Back-end
-    ERD설계 및 API 작성 : 2024-10-05, 5d
-    백엔드 개발 : 2024-10-10, 8d
-
-```
+#### 2024. 09. 23 ~ 2024. 11. 13
+![일정관리](https://github.com/user-attachments/assets/39e663a2-499a-499e-b8b4-6ceb514d64e7)
 
 <br/>
 
@@ -259,6 +234,9 @@ gantt
 <br/>
 
 ## 📊 API 명세서
+<img src="https://github.com/user-attachments/assets/02781100-0496-4134-94e7-f072f9f88926" width="1100" height="300"/>
+<img src="https://github.com/user-attachments/assets/b8b78e24-6d31-4881-9484-56da81f5764c" width="1100" height="600"/>
+<img src="https://github.com/user-attachments/assets/a8b5aa2b-9e55-4485-b85e-8980399a46a0" width="1100" height="600"/>
 
 <br/>
 <br/>
