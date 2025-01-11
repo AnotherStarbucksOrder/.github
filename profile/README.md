@@ -1,6 +1,3 @@
-![관리자_매출관리조회](https://github.com/user-attachments/assets/35bb90dc-9ad3-41b5-bdd4-9ec277f489d8)![header](https://capsule-render.vercel.app/api?type=waving&color=036635&height=500&section=header&text=ANOTHER%20STARBUCKS&fontSize=60&fontColor=e8f3f5)
-
-
 ## 🐣 팀원 소개
 
 <div align="center">
