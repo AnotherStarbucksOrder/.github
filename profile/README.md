@@ -294,23 +294,30 @@
 ## ✨ 화면 구현
 
 ### 사용자
+
 카테고리 이동 선택
+
 ![카테고리 이동 선택](https://github.com/user-attachments/assets/241a3024-3140-411c-8808-09074049d0c5)
 
 메뉴선택
+
 ![메뉴선택(2배속)](https://github.com/user-attachments/assets/303582e7-b147-474e-a282-15b6f4d62e2a)
 
 
 장바구니 수정 삭제 전체삭제
+
 ![장바구니 수정 삭제 전체삭제](https://github.com/user-attachments/assets/95deff3a-6b6b-4cdf-bff6-363cb1964e66)
 
 일반결제
+
 ![일반결제(정리완료)](https://github.com/user-attachments/assets/d878bf85-0850-4b51-a5ae-bfb8923c757a)
 
 쿠폰 결제
+
 ![쿠폰 결제](https://github.com/user-attachments/assets/9cf5863d-9720-4f46-a0a2-f551cb1dc62b)
 
 적립
+
 ![적립](https://github.com/user-attachments/assets/d8ee3ed4-96b9-4c5c-a7dd-b5790e2d6197)
 
 ### 관리자
@@ -335,7 +342,6 @@
 
 회원관리 추가 수정 삭제
 ![관리자_회원관리 추가 수정 삭제](https://github.com/user-attachments/assets/f4ff0492-eca4-43ea-adf8-8ee7f2563e60)
-
 
 <br/>
 <br/>
