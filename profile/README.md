@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=036635&height=500&section=header&text=ANOTHER%20STARBUCKS&fontSize=60&fontColor=e8f3f5)
+![관리자_매출관리조회](https://github.com/user-attachments/assets/35bb90dc-9ad3-41b5-bdd4-9ec277f489d8)![header](https://capsule-render.vercel.app/api?type=waving&color=036635&height=500&section=header&text=ANOTHER%20STARBUCKS&fontSize=60&fontColor=e8f3f5)
 
 
 ## 🐣 팀원 소개
@@ -292,6 +292,51 @@
 
 
 ## ✨ 화면 구현
+
+### 사용자
+카테고리 이동 선택
+![카테고리 이동 선택](https://github.com/user-attachments/assets/241a3024-3140-411c-8808-09074049d0c5)
+
+메뉴선택
+![메뉴선택(2배속)](https://github.com/user-attachments/assets/303582e7-b147-474e-a282-15b6f4d62e2a)
+
+
+장바구니 수정 삭제 전체삭제
+![장바구니 수정 삭제 전체삭제](https://github.com/user-attachments/assets/95deff3a-6b6b-4cdf-bff6-363cb1964e66)
+
+일반결제
+![일반결제(정리완료)](https://github.com/user-attachments/assets/d878bf85-0850-4b51-a5ae-bfb8923c757a)
+
+쿠폰 결제
+![쿠폰 결제](https://github.com/user-attachments/assets/9cf5863d-9720-4f46-a0a2-f551cb1dc62b)
+
+적립
+![적립](https://github.com/user-attachments/assets/d8ee3ed4-96b9-4c5c-a7dd-b5790e2d6197)
+
+### 관리자
+
+로그인 및 관리자 시작화면
+![관리자_로그인 및 관리자 시작화면(매출)](https://github.com/user-attachments/assets/506f09f7-7c2a-47a2-99c0-1724b01f6df8)
+
+매출관리 조회
+![관리자_매출관리조회](https://github.com/user-attachments/assets/589d98ba-4ee0-4350-ace8-3b6d8499b136)
+
+주문관리 조회
+![관리자_주문관리 조회](https://github.com/user-attachments/assets/bbc790c4-ddac-4673-aa12-5a1ae049fd11)
+
+메뉴관리 화면이동
+![관리자_메뉴관리 화면이동](https://github.com/user-attachments/assets/9f4e424f-b7bc-4d49-bde9-b344773f4d21)
+
+메뉴등록
+![관리자_메뉴등록](https://github.com/user-attachments/assets/b8776aa8-7ac8-47e6-8a8c-02a93cce7252)
+
+수정 및 삭제
+![관리자_수정 및 삭제](https://github.com/user-attachments/assets/ccf942da-eab4-48cd-b3b0-f600e5d00c2d)
+
+회원관리 추가 수정 삭제
+![관리자_회원관리 추가 수정 삭제](https://github.com/user-attachments/assets/f4ff0492-eca4-43ea-adf8-8ee7f2563e60)
+
+
 <br/>
 <br/>
 
